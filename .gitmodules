@@ -1,0 +1,15 @@
+[submodule "DeGarden-Programs"]
+	path = DeGarden-Programs
+	url = git@github.com:ivanrad10/DeGarden-Programs.git
+[submodule "DeGarden-Frontend"]
+	path = DeGarden-Frontend
+	url = git@github.com:ivanrad10/DeGarden-Frontend.git
+[submodule "DeGarden-Backend"]
+	path = DeGarden-Backend
+	url = git@github.com:ivanrad10/DeGarden-Backend.git
+[submodule "DeGarden-Firmware-Flowmeter"]
+	path = DeGarden-Firmware-Flowmeter
+	url = git@github.com:ivanrad10/DeGarden-Firmware-Flowmeter.git
+[submodule "DeGarden-Firmware-Moisture"]
+	path = DeGarden-Firmware-Moisture
+	url = git@github.com:ivanrad10/DeGarden-Firmware-Moisture.git
